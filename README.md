@@ -1,4 +1,3 @@
 Here's some statistics for my GitHub profile:
 
-![](https://github.com/AyliasTheCoder/AyliasTheCoder/blob/main/generated/overview.svg)
-![](https://github.com/AyliasTheCoder/AyliasTheCoder/blob/main/generated/languages.svg)
+[![AyliasTheCoder's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyliasTheCoder)](https://github.com/anuraghazra/github-readme-stats)
